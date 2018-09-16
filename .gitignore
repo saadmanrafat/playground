@@ -1,0 +1,7 @@
+*.swp
+*.pdf
+*.csv
+/input
+/.ipynb_checkpoints
+*.html
+
